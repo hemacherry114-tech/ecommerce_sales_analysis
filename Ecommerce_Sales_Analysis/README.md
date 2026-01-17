@@ -15,4 +15,6 @@ This project focuses on analyzing an e-commerce sales dataset to find key busine
 - Sales trends over time and by country.
 
 ## Final Dashboard
-![E-commerce Sales Dashboard](image-link-from-github)
+![E-commerce Sales Dashboard](dashboard1.png)
+
+
